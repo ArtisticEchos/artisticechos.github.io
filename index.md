@@ -1,18 +1,16 @@
-# DankDominick
+# ArtisticEchps
 
 Hello there, my name is Dominick, and this is my website.
 
 
-## Jailbreak Roblox:
+## Roblox Stats:
 
-- [My Jailbreak Vehicle List](https://dankdominick.github.io/jailbreak-vehicles)
-
-- [My Jailbreak Stats](https://dankdominick.github.io/jailbreak-stats)
+- [My Jailbreak Stats](https://artisticechos.github.io/jailbreak-stats)
 
 ## Social Links:
 
 - [My YouTube channel](https://www.youtube.com/channel/UC7hofdJFBeauO_kBBlgBWkw)
 
-- [My GitHub profile](https://github.com/DankDominick)
+- [My GitHub profile](https://github.com/ArtisticEchos)
 
-- [My Discord server](https://discord.gg/29he6my)
+[Notice]: This code has been moved from my previous website when I changed all of my usernames.
