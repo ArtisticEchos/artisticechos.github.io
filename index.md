@@ -1,4 +1,4 @@
-# ArtisticEchps
+# ArtisticEchos
 
 Hello there, my name is Dominick, and this is my website.
 
@@ -6,6 +6,8 @@ Hello there, my name is Dominick, and this is my website.
 ## Roblox Stats:
 
 - [My Jailbreak Stats](https://artisticechos.github.io/jailbreak-stats)
+
+- [My Arsenal Stats](https://artisticechos.github.io/arsenal-stats)
 
 ## Social Links:
 
