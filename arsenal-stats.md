@@ -2,5 +2,5 @@
 Here, I will list some stats in the game.
 
 ## Other stats:
-- 4 wins
+- 6 wins
 - Highest winstreak: 2
