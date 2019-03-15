@@ -27,7 +27,7 @@ Here, I will list some stats in the game.
 |Bugatti          |$500,000                |Yes        |N/A          |
 |Torpedo          |$750,000                |Yes        |2019-02-09   |
 |Arachnid         |$750,000                |           |             |
-|Volt Bike        |$1,000,000              |           |             |
+|Volt Bike        |$1,000,000              |Yes        |2019-03-15   |
 |Monster Truck    |$1,000,000              |           |             |
 |BlackHawk        |$1,000,000              |Yes        |2019-01-24   |
 |Wraith           |BOSS Gamepass (R$300)   |           |             |
